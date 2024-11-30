@@ -1,7 +1,1 @@
-
-## Running commands:
-	
-    python train_WN18RR.py 
-    python train_FB15K237.py 
-    python train_WN18.py 
-    python train_FB15K.py 
+This repository is the official implementation of ["Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation"]() accepted by COLING 2025.
